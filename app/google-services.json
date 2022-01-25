@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "863581926776",
+    "firebase_url": "https://petshop-3668c-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "petshop-3668c",
+    "storage_bucket": "petshop-3668c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863581926776:android:6d5ab80b913731d8bb048d",
+        "android_client_info": {
+          "package_name": "com.ccarrera.petshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863581926776-hl38g1ckrfi7cqaapj8nqln5kp5pgp42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALXo-d8A5aSUc_17hE8ICVUue7HT-MST4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863581926776-hl38g1ckrfi7cqaapj8nqln5kp5pgp42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

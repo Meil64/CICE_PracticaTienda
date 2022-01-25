@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PetShop</string>
+
+    <!--LOGIN-->
+    <string name="login_title_text">PETSHOP</string>
+    <string name="login_username_text">Usuario</string>
+    <string name="login_password_text">Contraseña</string>
+    <string name="login_buttonLogin_text">Iniciar sesión</string>
+    <string name="login_buttonRegister_text">Registrarse</string>
+    <string name="loginError_EmptyCredentials">Introduzca sus datos de acceso</string>
+
+    <!--REGISTER-->
+    <string name="register_title_text">NUEVO USUARIO</string>
+    <string name="register_username_text">Usuario</string>
+    <string name="register_password_text">Contraseña</string>
+    <string name="register_repeatPassword_text">Confirmar</string>
+    <string name="register_repeatPasswordHint_text">Confirmar contraseña</string>
+    <string name="register_createUser_text">Crear usuario</string>
+    <string name="register_UserCreated">Usuario creado</string>
+    <string name="registerError_EmptyCredentials">Debe rellenar todos los campos</string>
+    <string name="registerError_passwordMismatch">Las contraseñas no coinciden</string>
+
+    <string name="loadingFeedback">Cargando</string>
+
+    <string name="mainTab_Dogs">PERROS</string>
+    <string name="mainTab_Cats">GATOS</string>
+
+</resources>
